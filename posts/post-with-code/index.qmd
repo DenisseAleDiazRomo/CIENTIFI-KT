@@ -11,6 +11,6 @@ image: "image.jpg"
 
 **Parece un paisaje de fantasía, sin embargo, es más real de lo que prodríamos creer; se llaman playas bioluminiscentes, y escasean al rededor del mundo**
 
-![](images/bioluminiciencia.webp){width="541"}
+![](images/bioluminiciencia.webp){fig-align="center" width="800"}
 
 Las playas bioluminiscentes son uno de los fenomenos naturales mas imprecionantes y enigmaticos que nos provee el mundo. Estas playas, que parecen sacadas de un libro de fantasia, brillan con intensidad en la oscuridad con un resplando azul verdoso.
