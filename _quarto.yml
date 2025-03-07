@@ -3,6 +3,7 @@ project:
 
 website:
   title: "CIENTIFI KT"
+  favicon: "images/Green Minimalist Brain Care Psychologist Logo.png"
   navbar:
     right:
       - about.qmd

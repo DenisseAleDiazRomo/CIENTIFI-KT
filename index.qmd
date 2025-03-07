@@ -11,5 +11,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-**_PLAYAS HECHAS DE ESTRELLAS_**
----
+
+## ***PLAYAS HECHAS DE ESTRELLAS***
+
+![](images/Green Minimalist Brain Care Psychologist Logo.png)
