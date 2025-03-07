@@ -4,10 +4,9 @@ author: "Denisse Alejandra Diaz Romo"
 date: "2025-03-07"
 categories: [news,vida marina, bioluminicencia]
 image: "images/bioluminiciencia.webp"
-
 ---
 
----
+------------------------------------------------------------------------
 
 **Parece un paisaje de fantasía, sin embargo, es más real de lo que prodríamos creer; se llaman playas bioluminiscentes, y esconden un asombroso secreto.**
 
