@@ -10,5 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-**PLAYAS HECHAS DE ESTRELLAS**
+**_PLAYAS HECHAS DE ESTRELLAS_**
 ---
