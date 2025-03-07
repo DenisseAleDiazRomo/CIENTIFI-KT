@@ -1,10 +1,12 @@
 ---
+
+---
+
+![](images/0d22a0e31f180440d80a34da7142a899.jpg)
 image: "image.jpg"
 title: "PLAYAS HECHAS DE ESTRELLAS"
 author: "Denisse Alejandra Diaz Romo"
 date: "2025-03-07"
-categories: [news,vida marina, bioluminicencia]
----
+categories: \[news,vida marina, bioluminicencia\]
 
-![](images/Green Minimalist Brain Care Psychologist Logo.png)
 ---

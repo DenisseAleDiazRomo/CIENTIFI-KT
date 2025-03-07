@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "CIENTIFI KT",
     "section": "",
-    "text": "PLAYAS HECHAS DE ESTRELLAS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPLAYAS HECHAS DE ESTRELLAS\n\n\n\n\n\n\nnews\n\n\nvida marina\n\n\nbioluminicencia\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\nDenisse Alejandra Diaz Romo\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "PLAYAS HECHAS DE ESTRELLAS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "CIENTIFI KT",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "image: “image.jpg” title: “PLAYAS HECHAS DE ESTRELLAS” author: “Denisse Alejandra Diaz Romo” date: “2025-03-07” categories: [news,vida marina, bioluminicencia]"
   },
   {
     "objectID": "about.html",
