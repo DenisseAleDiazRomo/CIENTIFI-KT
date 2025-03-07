@@ -1,5 +1,6 @@
 ---
 title: "CIENTIFI KT"
+autor: "Denisse Alejandra Diaz Romo"
 listing:
   contents: posts
   sort: "date desc"
