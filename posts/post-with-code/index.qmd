@@ -3,14 +3,18 @@ title: "PLAYAS HECHAS DE ESTRELLAS"
 author: "Denisse Alejandra Diaz Romo"
 date: "2025-03-07"
 categories: [news,vida marina, bioluminicencia]
-image: "image.jpg"
+image: "images/bioluminiciencia.webp"
 
 ---
 
 ---
 
-**Parece un paisaje de fantasía, sin embargo, es más real de lo que prodríamos creer; se llaman playas bioluminiscentes, y escasean al rededor del mundo**
+**Parece un paisaje de fantasía, sin embargo, es más real de lo que prodríamos creer; se llaman playas bioluminiscentes, y esconden un asombroso secreto.**
 
 ![](images/bioluminiciencia.webp){fig-align="center" width="800"}
 
-Las playas bioluminiscentes son uno de los fenomenos naturales mas imprecionantes y enigmaticos que nos provee el mundo. Estas playas, que parecen sacadas de un libro de fantasia, brillan con intensidad en la oscuridad con un resplando azul verdoso.
+Las playas bioluminiscentes son uno de los fenomenos naturales mas imprecionantes y enigmaticos que nos provee el mundo. Estas playas, que parecen sacadas de un libro de fantasia, brillan con intensidad en la oscuridad con un resplando azul verdoso. Pero...
+
+**¿POR QUÉ BRILLAN?**
+
+El efecto resplandiente tan caracteristico de estas playas se debe a organismos específicos
