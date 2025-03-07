@@ -1,13 +1,10 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-03-04"
-categories: [news, code, analysis]
+title: "PLAYAS HECHAS DE ESTRELLAS"
+author: "Denisse Alejandra Diaz Romo"
+date: "2025-03-07"
+categories: [news,vida marina, bioluminicencia]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+![](images/Green Minimalist Brain Care Psychologist Logo.png)
+---
