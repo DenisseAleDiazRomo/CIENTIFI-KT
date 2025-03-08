@@ -4,6 +4,7 @@ project:
 website:
   title: "CIENTIFI KT"
   favicon: "images/Green Minimalist Brain Care Psychologist Logo.png"
+  
   navbar:
     right:
       - about.qmd
@@ -13,8 +14,9 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
+    
 
 editor: visual
 
