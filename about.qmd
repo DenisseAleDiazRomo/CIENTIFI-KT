@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "![](b9cc6778-2266-4bbb-9f74-63af42f938c6-01.jpg)"
+image: "images/b9cc6778-2266-4bbb-9f74-63af42f938c6-01.jpg"
 about:
   template: jolla
   links:
