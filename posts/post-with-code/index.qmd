@@ -7,6 +7,7 @@ output:
   html_document:
     toc: true
     toc_depth: 3
+    git pull origin master
 ---
 
 Las ballenas (Cetacea) desempeñan un papel crucial en los ecosistemas marinos a través del ciclaje de nutrientes, el secuestro de carbono y el mantenimiento de la estabilidad de las redes tróficas (Roman et al., 2021). Sin embargo, enfrentan amenazas crecientes debido al cambio climático, colisiones con embarcaciones, enmallamientos y contaminación acústica. Los avances tecnológicos recientes han revolucionado la investigación sobre ballenas, permitiendo a los científicos recopilar datos de alta resolución sobre sus movimientos, vocalizaciones y adaptaciones fisiológicas. Este texto examina hallazgos clave de los últimos cinco años, categorizados en:
