@@ -15,4 +15,4 @@ about:
       href: https://github.com
 ---
 
-About this blog
+Este es un blog cientifico informativo, que te ayudara a obtener información actual de temas interesantes variados que te puedan servir.
