@@ -12,7 +12,7 @@ output:
 Los hongos radiotróficos (o "hongos come-radiación") representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum
 en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.
 
-![](images/Gemini_Generated_Image_gua6umgua6umgua6.jpg)
+![](images/Gemini_Generated_Image_opgd15opgd15opgd.jpg)
 
 Los hongos radiotróficos son organismos extremófilos que habitan en ambientes con alta radiación (ej: reactores nucleares, espacio exterior). Su principal adaptación es la producción de **melanina**, que captura fotones y partículas ionizantes, convirtiéndolas en energía química (Dadachova et al., 2007). Estudios recientes demuestran que este proceso podría revolucionar:
 
