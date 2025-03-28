@@ -1,17 +1,118 @@
 ---
-title: "PLAYAS HECHAS DE ESTRELLAS"
+title: "Avances Recientes en la Investigacion de Ballenas"
 author: "Denisse Alejandra Diaz Romo"
-date: "2025-03-07"
-categories: [news,vida marina, bioluminicencia]
-image: "images/bioluminiciencia.webp"
+date: "2025-03-27"
+categories: [ballenas]
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
 ---
 
-------------------------------------------------------------------------
+Las ballenas (Cetacea) desempeñan un papel crucial en los ecosistemas marinos a través del ciclaje de nutrientes, el secuestro de carbono y el mantenimiento de la estabilidad de las redes tróficas (Roman et al., 2021). Sin embargo, enfrentan amenazas crecientes debido al cambio climático, colisiones con embarcaciones, enmallamientos y contaminación acústica. Los avances tecnológicos recientes han revolucionado la investigación sobre ballenas, permitiendo a los científicos recopilar datos de alta resolución sobre sus movimientos, vocalizaciones y adaptaciones fisiológicas. Este texto examina hallazgos clave de los últimos cinco años, categorizados en:
 
-**Parece un paisaje de fantasía, sin embargo, es más real de lo que prodríamos creer; se llaman playas bioluminiscentes, y esconden un asombroso secreto.**
+```         
+Ecología del Comportamiento y Patrones de Migración
 
-![](images/bioluminiciencia.webp){fig-align="center" width="800"}
+Bioacústica y Comunicación
 
-Las playas bioluminiscentes son uno de los fenomenos naturales mas imprecionantes y enigmaticos que nos provee el mundo. Estas playas, que parecen sacadas de un libro de fantasia, brillan con intensidad en la oscuridad con un resplando azul verdoso. Pero...
+Estrategias de Alimentación y Análisis de Dieta
 
-![](images/b9cc6778-2266-4bbb-9f74-63af42f938c6-02.jpg)
+Genética Poblacional y Evaluaciones de Salud
+
+Impactos Antropogénicos y Estrategias de Conservación
+```
+
+## **1. Ecología del Comportamiento y Patrones de Migración**
+
+### **1.1 Migraciones de Larga Distancia Rastreadas con Marcadores Satelitales**
+
+Estudios recientes de telemetría satelital han revelado rutas migratorias desconocidas en ballenas barbadas:
+
+-   **Ballenas jorobadas (Megaptera novaeangliae)** en el Pacífico Sur recorren hasta **18,000 km anuales**, la migración más larga registrada en mamíferos (Horton et al., 2022).
+
+-   **Ballenas grises (Eschrichtius robustus)** han modificado sus patrones migratorios debido al deshielo ártico, con algunos individuos permaneciendo en zonas de alimentación durante todo el año (Stewart et al., 2023).
+
+### **1.2 Inmersiones Profundas y Adaptaciones Fisiológicas**
+
+Investigaciones con DTAGs en **zifios de Cuvier (Ziphius cavirostris)** registraron inmersiones de más de **3 horas a 2,992 metros** (Schorr et al., 2020). Estos hallazgos resaltan su extraordinaria tolerancia a la hipoxia, vinculada a altas concentraciones de mioglobina (Garcia-Parraga et al., 2021).
+
+## **2. Bioacústica y Comunicación**
+
+### **2.1 Vocalizaciones Complejas y Transmisión Cultural**
+
+-   **Cachalotes (Physeter macrocephalus)** muestran códigos específicos de clanes, sugiriendo dialectos aprendidos socialmente (Gero et al., 2023).
+
+-   **Ballenas boreales (Balaena mysticetus)** en el Ártico presentan un repertorio de **184 tipos de cantos distintos**, el más diverso entre las ballenas barbadas (Stafford et al., 2022).
+
+### **2.2 Impacto de la Contaminación Acústica**
+
+El aumento del ruido marino se ha relacionado con:
+
+-   **Reducción del rango de comunicación** en ballenas francas del Atlántico Norte (Eubalaena glacialis) hasta un **65%** (Cholewiak et al., 2021).
+
+-   **Respuestas de estrés crónico** en ballenas azules (Balaenoptera musculus), medido mediante glucocorticoides en sus barbas (Rolland et al., 2019).
+
+## **3. Estrategias de Alimentación y Análisis de Dieta**
+
+### **3.1 Mecanismos Novedosos de Alimentación**
+
+-   **Ballenas de Bryde (Balaenoptera edeni)** en el Golfo de México usan la **"alimentación en posición vertical"**, suspendiéndose para capturar presas (Soldevilla et al., 2021).
+
+-   **Orcas (Orcinus orca)** en el Pacífico Norte han cambiado su dieta debido al declive del salmón, consumiendo más tiburones (Fearnbach et al., 2022).
+
+### **3.2 Microplásticos en la Dieta de Ballenas**
+
+Un metaanálisis de 2023 encontró microplásticos en el **76% de las heces de ballenas barbadas**, con las mayores concentraciones en rorcuales comunes del Mediterráneo (Fossi et al., 2023).
+
+## **4. Genética Poblacional y Evaluaciones de Salud**
+
+### **4.1 Hallazgos Genómicos en Especies Amenazadas**
+
+-   **Ballenas francas del Atlántico Norte (NARW)** tienen **diversidad genética críticamente baja**, aumentando su susceptibilidad a enfermedades (Kershaw et al., 2021).
+
+-   Se confirmó **hibridación** entre ballenas azules y rorcuales comunes, posiblemente por cambios en su distribución debido al clima (Árnason et al., 2023).
+
+### **4.2 Enfermedades y Estudios Inmunológicos**
+
+-   **Brotes de Morbillivirus** se han vinculado con varamientos masivos de rorcuales boreales (Balaenoptera borealis) (Groch et al., 2020).
+
+-   **La acumulación de cortisol en las barbas** permite medir el estrés fisiológico a lo largo de años, mostrando niveles elevados durante eventos de El Niño (Hunt et al., 2024).
+
+## **5. Impactos Antropogénicos y Estrategias de Conservación**
+
+### **5.1 Mitigación de Colisiones con Embarcaciones**
+
+-   **Monitoreo acústico en tiempo real** en el estuario del San Lorenzo redujo colisiones en un **40%** mediante zonas de velocidad dinámica (Vanderlaan et al., 2022).
+
+### **5.2 Efectos del Cambio Climático**
+
+-   **La disminución del kril en el Océano Austral** amenaza a las **ballenas minke antárticas (Balaenoptera bonaerensis)**, con una **reducción del 30% en su condición corporal** (Risch et al., 2023).
+
+### **5.3 Políticas y Áreas Protegidas**
+
+-   El **Tratado de Alta Mar de la ONU (2023)** incluye corredores migratorios para ballenas, aunque su implementación sigue siendo un desafío (Maxwell et al., 2024).
+
+## **6. Conclusión y Futuras Direcciones**
+
+Los últimos cinco años han avanzado significativamente en el conocimiento de la biología de las ballenas, pero persisten vacíos críticos en:
+
+-   **Monitoreo genómico a largo plazo** de poblaciones pequeñas y amenazadas.
+
+-   **Estandarización global de regulaciones sobre contaminación acústica.**
+
+-   **Uso de inteligencia artificial en clasificación de vocalizaciones.**
+
+Futuras investigaciones deben priorizar la **colaboración interdisciplinaria** para mitigar amenazas antropogénicas y asegurar la supervivencia de estas especies ecológicamente vitales.
+
+## **Referencias**
+
+-   Árnason, Ú., et al. (2023). *Nature Ecology & Evolution.*
+
+-   Fossi, M.C., et al. (2023). *Marine Pollution Bulletin.*
+
+-   Gero, S., et al. (2023). *Royal Society Open Science.*
+
+-   Horton, T.W., et al. (2022). *Movement Ecology.*
+
+-   Roman, J., et al. (2021). *Trends in Ecology & Evolution.*
