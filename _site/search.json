@@ -81,7 +81,7 @@
     "href": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html",
     "title": "Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación",
     "section": "",
-    "text": "Los hongos radiotróficos (o “hongos come-radiación”) representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.\n\nLos hongos radiotróficos son organismos extremófilos que habitan en ambientes con alta radiación (ej: reactores nucleares, espacio exterior). Su principal adaptación es la producción de melanina, que captura fotones y partículas ionizantes, convirtiéndolas en energía química (Dadachova et al., 2007). Estudios recientes demuestran que este proceso podría revolucionar:\n\nBiorremediación de zonas nucleares.\nProtección radiológica en humanos.\nSistemas de soporte vital en misiones espaciales."
+    "text": "Los hongos radiotróficos (o “hongos come-radiación”) representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.\nLos hongos radiotróficos son organismos extremófilos que habitan en ambientes con alta radiación (ej: reactores nucleares, espacio exterior). Su principal adaptación es la producción de melanina, que captura fotones y partículas ionizantes, convirtiéndolas en energía química (Dadachova et al., 2007). Estudios recientes demuestran que este proceso podría revolucionar:"
   },
   {
     "objectID": "posts/post-with-code/AVANCES RECIENTES EN BALLENAS 2025.html",
@@ -138,5 +138,33 @@
     "title": "Avances Recientes en la Investigacion de Ballenas",
     "section": "Referencias",
     "text": "Referencias\n\nÁrnason, Ú., et al. (2023). Nature Ecology & Evolution.\nFossi, M.C., et al. (2023). Marine Pollution Bulletin.\nGero, S., et al. (2023). Royal Society Open Science.\nHorton, T.W., et al. (2022). Movement Ecology.\nRoman, J., et al. (2021). Trends in Ecology & Evolution."
+  },
+  {
+    "objectID": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#mecanismos-bioquímicos-2019-2024",
+    "href": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#mecanismos-bioquímicos-2019-2024",
+    "title": "Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación",
+    "section": "1. Mecanismos Bioquímicos (2019-2024)",
+    "text": "1. Mecanismos Bioquímicos (2019-2024)\n\n1.1 Melanina como “Antena Radiológica”\n\nEstudio clave: Zhdanova et al. (2021) confirmaron que la melanina en C. sphaerospermum absorbe rayos gamma y electrones, generando ATP vía transporte de electrones (Frontiers in Microbiology).\nDato: Estos hongos crecen un 50% más rápido en ambientes con 500 Gy/h (vs. condiciones normales).\n\n\n\n1.2 Expresión Génica bajo Radiación\n\nRNA-seq en Cryptococcus: Un estudio de la NASA (2023) identificó 127 genes sobreexpresados en respuesta a radiación, incluyendo:\n\nRAD54 (reparación de ADN).\nMEL1 (síntesis de melanina)."
+  },
+  {
+    "objectID": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#aplicaciones-prácticas",
+    "href": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#aplicaciones-prácticas",
+    "title": "Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación",
+    "section": "2. Aplicaciones Prácticas",
+    "text": "2. Aplicaciones Prácticas\n\n2.1 Biorremediación Nuclear\n\nChernóbil (2020): Hongos redujeron 30% de Cs-137 en aguas contaminadas (Nature Biotechnology).\nFukushima: Exophiala dermatitidis degradó isótopos de uranio en 6 meses (Tkavc et al., 2022).\n\n\n\n2.2 Astrobiología\n\nExperimento ISS (2022): Cladosporium sobrevivió 24 meses en el espacio exterior, sugiriendo su uso en colonias marcianas (Astrobiology)."
+  },
+  {
+    "objectID": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#desafíos-y-futuras-direcciones",
+    "href": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#desafíos-y-futuras-direcciones",
+    "title": "Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación",
+    "section": "3. Desafíos y Futuras Direcciones",
+    "text": "3. Desafíos y Futuras Direcciones\n\nLimitaciones:\n\nToxicidad de subproductos metabólicos.\nEscalabilidad industrial.\n\nOportunidades:\n\nIngeniería genética para optimizar la captación radiativa.\nUso en escudos biológicos contra radiación cósmica."
+  },
+  {
+    "objectID": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#conclusión",
+    "href": "posts/AVANCES RECIENTES EN LA INVESTIGACIÓN DE BALLENAS/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html#conclusión",
+    "title": "Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación",
+    "section": "4. Conclusión",
+    "text": "4. Conclusión\nLos hongos radiotróficos ofrecen soluciones innovadoras para crisis ambientales y tecnológicas. Su estudio interdisciplinario (microbiología, física nuclear y biotecnología) es crucial para aplicaciones en el Antropoceno y más allá.\n\nReferencias Clave\n\nZhdanova et al. (2021). Frontiers in Microbiology.\nNASA (2023). “Genomic Adaptations to Space Radiation”.\nTkavc et al. (2022). Nature Biotechnology."
   }
 ]

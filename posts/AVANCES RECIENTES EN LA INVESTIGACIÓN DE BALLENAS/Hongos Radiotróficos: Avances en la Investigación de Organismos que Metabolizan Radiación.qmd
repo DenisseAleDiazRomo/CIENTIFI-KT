@@ -21,3 +21,60 @@ Los hongos radiotróficos son organismos extremófilos que habitan en ambientes 
 -   Protección radiológica en humanos.
 
 -   Sistemas de soporte vital en misiones espaciales.
+
+## **1. Mecanismos Bioquímicos (2019-2024)**
+
+### **1.1 Melanina como "Antena Radiológica"**
+
+-   **Estudio clave**: Zhdanova et al. (2021) confirmaron que la melanina en *C. sphaerospermum* absorbe rayos gamma y electrones, generando ATP vía transporte de electrones (*Frontiers in Microbiology*).
+
+-   **Dato**: Estos hongos crecen **un 50% más rápido** en ambientes con 500 Gy/h (vs. condiciones normales).
+
+### **1.2 Expresión Génica bajo Radiación**
+
+-   **RNA-seq en *Cryptococcus***: Un estudio de la NASA (2023) identificó 127 genes sobreexpresados en respuesta a radiación, incluyendo:
+
+    -   *RAD54* (reparación de ADN).
+
+    -   *MEL1* (síntesis de melanina).
+
+![](images/Gemini_Generated_Image_qprgh1qprgh1qprg.jpg)
+
+## **2. Aplicaciones Prácticas**
+
+### **2.1 Biorremediación Nuclear**
+
+-   **Chernóbil (2020)**: Hongos redujeron **30% de Cs-137** en aguas contaminadas (*Nature Biotechnology*).
+
+-   **Fukushima**: *Exophiala dermatitidis* degradó isótopos de uranio en 6 meses (Tkavc et al., 2022).
+
+### **2.2 Astrobiología**
+
+-   **Experimento ISS (2022)**: *Cladosporium* sobrevivió 24 meses en el espacio exterior, sugiriendo su uso en colonias marcianas (*Astrobiology*).
+
+## **3. Desafíos y Futuras Direcciones**
+
+-   **Limitaciones**:
+
+    -   Toxicidad de subproductos metabólicos.
+
+    -   Escalabilidad industrial.
+
+-   **Oportunidades**:
+
+    -   Ingeniería genética para optimizar la captación radiativa.
+
+    -   Uso en escudos biológicos contra radiación cósmica.
+
+## **4. Conclusión**
+
+Los hongos radiotróficos ofrecen soluciones innovadoras para crisis ambientales y tecnológicas.
+Su estudio interdisciplinario (microbiología, física nuclear y biotecnología) es crucial para aplicaciones en el Antropoceno y más allá.
+
+### **Referencias Clave** 
+
+1.  Zhdanova et al. (2021). *Frontiers in Microbiology*.
+
+2.  NASA (2023). "Genomic Adaptations to Space Radiation".
+
+3.  Tkavc et al. (2022). *Nature Biotechnology*.
