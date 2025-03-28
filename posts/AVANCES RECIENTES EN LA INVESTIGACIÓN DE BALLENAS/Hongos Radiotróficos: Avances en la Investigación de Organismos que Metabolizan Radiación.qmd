@@ -9,8 +9,7 @@ output:
     toc_depth: 3
 ---
 
-Los hongos radiotróficos (o "hongos come-radiación") representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum
-en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.
+Los hongos radiotróficos (o "hongos come-radiación") representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.
 
 ![](images/Gemini_Generated_Image_opgd15opgd15opgd.jpg)
 
@@ -68,10 +67,9 @@ Los hongos radiotróficos son organismos extremófilos que habitan en ambientes 
 
 ## **4. Conclusión**
 
-Los hongos radiotróficos ofrecen soluciones innovadoras para crisis ambientales y tecnológicas.
-Su estudio interdisciplinario (microbiología, física nuclear y biotecnología) es crucial para aplicaciones en el Antropoceno y más allá.
+Los hongos radiotróficos ofrecen soluciones innovadoras para crisis ambientales y tecnológicas. Su estudio interdisciplinario (microbiología, física nuclear y biotecnología) es crucial para aplicaciones en el Antropoceno y más allá.
 
-### **Referencias Clave** 
+### **Referencias Clave**
 
 1.  Zhdanova et al. (2021). *Frontiers in Microbiology*.
 
