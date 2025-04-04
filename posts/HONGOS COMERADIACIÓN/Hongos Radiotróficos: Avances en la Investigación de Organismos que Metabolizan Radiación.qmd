@@ -9,9 +9,8 @@ output:
     toc_depth: 3
 ---
 
-En el inhostpito paisaje hostil de Chernobyl, un lugar que parece haber sido abandonado por dios a causa de la inmoralidad humana. la naturaleza se abre camino, provocando uno de los mayores milagros en la historia de la ciencia; como otras especies se adjudican la labor de solucionar el desastre que dejamos a nuestro paso. Los hongos radiotróficos (o "hongos come-radiación") a quien le debemos el respeto por remediar la crisis ecologica realizada en 1986, representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.
+En el inhospito paisaje hostil de Chernobyl, un lugar que parece haber sido abandonado por dios a causa de la inmoralidad humana. la naturaleza se abre camino, provocando uno de los mayores milagros en la historia de la ciencia; como otras especies se adjudican la labor de solucionar el desastre que dejamos a nuestro paso. Los hongos radiotróficos (o "hongos come-radiación") a quien le debemos el respeto por remediar la crisis ecologica realizada en 1986, representan un campo emergente en microbiología y biotecnología. Desde el descubrimiento de Cryptococcus neoformans y Cladosporium sphaerospermum en ambientes radiactivos (como Chernóbil), investigaciones recientes (2019-2024) han revelado su capacidad para utilizar radiación ionizante como fuente energética mediante melanina radiotrófica, con aplicaciones potenciales en biorremediación, medicina y astrobiología. Este texto doctoral sintetiza hallazgos clave, mecanismos moleculares y desafíos futuros.
 
-![]()
 
 ![](images/Gemini_Generated_Image_opgd15opgd15opgd-01.jpg)
 
