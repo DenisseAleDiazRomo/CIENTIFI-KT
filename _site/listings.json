@@ -2,8 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
+<<<<<<< HEAD
       "/posts/HONGOS COMERADIACIÓN/Hongos Radiotróficos-Avances en la Investigación de Organismos que Metabolizan Radiación.html",
       "/posts/IA, EL FUTURO DE LA MEDICINA EN MANOS DE ALGORITMOS/IA, EL FUTURO DE LA MEDICINA EN MANOS DE ALGORITMOS.html",
+=======
+      "/posts/CACAO, EL ORO DEL FUTURO/CACAO EL ORO DEL FUTURO.html",
+      "/posts/PRESENTACIÓN/PRESENTACIÓN CACAO.html",
+      "/posts/PIZZA/CIENTIFI KT.pdf",
+      "/posts/PIZZA/template-full.html",
+      "/posts/IA, EL FUTURO DE LA MEDICINA EN MANOS DE ALGORITMOS/IA, EL FUTURO DE LA MEDICINA EN MANOS DE ALGORITMOS.html",
+      "/posts/HONGOS COMERADIACIÓN/Hongos Radiotróficos: Avances en la Investigación de Organismos que Metabolizan Radiación.html",
+>>>>>>> 7215fe53d3d60be3393f6ee189272df7d0a38ac4
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]

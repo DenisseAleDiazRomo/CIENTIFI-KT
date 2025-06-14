@@ -12,12 +12,14 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+
 format:
   html:
-    theme: superhero
+    theme: minty
     css: styles.css
     toc: true
     
 
 editor: visual
+
 
