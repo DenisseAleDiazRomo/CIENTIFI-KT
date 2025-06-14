@@ -1,19 +1,19 @@
 ---
-title: Quarto Academic Typst
-subtitle: A Minimalistic Quarto + Typst Template for Academic Writing
-header: Please click [HERE](https://kazuyanagimoto.com/quarto-academic-typst/template-full.pdf) for the latest version.
+title: CARACTERIZACIÓN DE VARIEDADES DE CACAO CON FINES DE APROVECHAMIENTO EN EL RANCHO “LA VERONICA”, MPIO. DE ACAYUCAN, VERACRUZ.
+subtitle: Una perspectiva del cacao 
+
 author:
-  - name: Kazuharu Yanagimoto
-    email: kazuharu.yanagimoto@cemfi.edu.es
-    orcid: 0009-0007-1967-8304
-    affiliations:
-      - name: CEMFI
+  - name: Denisse Alejandra Díaz Romo
+    email: dealdiro2504@gmail.com
+    orcid: 0009-0006-1376-5450
+
+
 abstract: |
   El cacao ha sido una pieza fundamental en la cultura y economía de diversas regiones del mundo, siendo México uno de los países con una larga tradición en su cultivo y consumo. En el estado de Veracruz, específicamente en la comunidad de Buena Vista, Acayucan, el cacao ha arraigado profundamente en la vida y la historia de sus habitantes. El Rancho «La Verónica», ubicado en este entorno de riqueza natural y cultural, representa un espacio privilegiado donde se desarrolla la producción de este preciado fruto. Para alcanzar este propósito, se plantean una serie de objetivos específicos. En primer lugar, se busca ubicar y georeferenciar los árboles de cacao en el sitio de estudio, permitiendo así un mapeo preciso de la distribución de esta especie en el área. Posteriormente, se llevará a cabo la recolección de material biológico de los árboles seleccionados, con el fin de obtener muestras representativas que servirán como base para los análisis subsiguientes. Los datos recopilados durante el estudio serán organizados y almacenados en una base de datos, facilitando su posterior análisis estadístico. Estos análisis permitirán identificar patrones y relaciones entre las diferentes variables morfológicas y fenotípicas, brindando así información valiosa para la comprensión de la diversidad genética presente en el cacao del Rancho «La Verónica». Finalmente, se procederá a la descripción detallada de los materiales encontrados en el sitio de estudio, proporcionando una visión integral de la biodiversidad asociada al cultivo de cacao en esta región. Este conocimiento no solo será de utilidad para la toma de decisiones en cuanto al manejo y conservación de los recursos naturales, sino que también sentará las bases para futuras investigaciones y acciones orientadas hacia el desarrollo sostenible de la producción de cacao en la zona. 
 
 thanks: |
-  This template is inspired by Kieran Healy's [LaTeX and Rmd template](https://github.com/kjhealy/latex-custom-kjh) and
-  Andrew Heiss's [Hikmah Quarto template](https://github.com/andrewheiss/hikmah-academic-quarto).
+  Agradezco mucho a los tutores que me han acompañado en mi formación, agradezco mucho sus comentarios y la guía que me han brindado. 
+
 keywords: [PRODUCTIVIDAD, MANEJO AGRONÓMICO, DIVERSIDAD GENÉTICA, ADAPTACIÓN CLIMÁTICA]
 custom-keywords:
   - name: JEL Codes
@@ -22,6 +22,8 @@ date: today
 date-format: full
 bibliography: references.bib
 format:
+  html: default
+  docx: default
   academic-typst:
     section-numbering: "1.1.1"
     font-paths: ["./static/fonts"]
@@ -36,7 +38,6 @@ execute:
   warning: false
 ---
 
-Puedes encontrar la bibliografía de esta investigación [aquí](This%20document%20shows%20a%20practical%20usage%20of%20the%20template.%20I%20use%20the%20Palmer%20penguins%20dataset%20%5B@horst2020%5D%20to%20demonstrate%20the%20features%20of%20the%20template.%20The%20code%20is%20available%20here.).
 
 ```{r}
 #| label: inicio 
@@ -49,11 +50,6 @@ library(modelsummary)
 library(showtext)
 library(flextable)
 
-#| label: lectura-datos 
-
-datos_pizza <- read.csv("datos-pizza.csv")
-
-flextable(datos_pizza)
 
 ```
 
@@ -347,100 +343,61 @@ En cuanto a las semillas, se observó un peso fresco que varió de 87 g a 107.66
 ```{r}
 #| label: lectura-datos 
 
+library(dplyr)
+library(flextable)
+
 datos_caracterizacion <- read.csv("caracterizacion-cacao.csv")
-flextable::flextable(datos_caracterizacion)
+head(datos_caracterizacion) |> 
+  flextable() |>
+  theme_vanilla() |>
+  width(j = 1:7, width = 2, unit = "cm")
+
 ```
 
+# **Conclusión**
 
-```{r}
-#| label: tbl-sum-penguins
-#| tbl-cap: Summary Statistics of Penguins
+La caracterización morfológica de las variedades de cacao en el rancho “La Verónica” ha revelado una notable diversidad, lo que subraya la riqueza genética de esta región. Las diferencias observadas en los descriptores morfológicos, como el tamaño y forma de hojas, flores y frutos, indican un potencial significativo para la selección de variedades que se adapten mejor a las condiciones locales y que puedan maximizar la producción. Esta información no solo es crucial para la identificación de variedades con características favorables, sino que también sienta un precedente para el desarrollo de prácticas de cultivo sustentables que podrían mejorar la rentabilidad y la resiliencia del sector cacaotero en Acayucan. Así, se abre una puerta hacia un futuro más sostenible para los productores locales, beneficiando tanto la economía como la conservación del cacao.
 
-penguins |>
-  filter(!is.na(sex)) |>
-  summarize(across(bill_length_mm:body_mass_g, ~mean(.x, na.rm = TRUE)),
-            .by = c(species, sex)) |>
-  tidyr::pivot_wider(names_from = sex,
-                     values_from = c(bill_length_mm, bill_depth_mm,
-                                     flipper_length_mm, body_mass_g)) |>
-  select(species, ends_with("_male"), ends_with("_female")) |>
-  `colnames<-`(c("", rep(c("Bill Length (mm)", "Bill Depth (mm)",
-                                  "Flipper Length (mm)", "Body Mass (g)"),
-                                times = 4))) |>
-  tt(notes = "_Notes_: Data from Palmer penguins dataset.") |>
-  group_tt(j = list("Male" = 2:5, "Female" = 6:9)) |>
-  format_tt(j = c(2:9), digits = 4)
-```
+# **Referencias**
 
-Since the default backend of `modelsummary` is `tinytable`, you can use the customization options of `tinytable` for `modelsummary`. In @tbl-regression, I use `tinytable::group_tt()` function to group the regression results by the dependent variables
+Anders, V. (n.d.). TEOBROMINA. Etimologías De Chile - Diccionario Que Explica El Origen De Las Palabras. https://etimologias.dechile.net/?teobromina Arrazate, C. H. A., Fuentes, J. M. V., Rojas, E. C., Méndez, R. A. G., López, A. M., Medina, J. F. A., ... & Zaragoza, S. E. (2011). Diagnóstico del cacao en México. Universidad Autónoma Chapingo.
 
-```{r}
-#| label: tbl-regression
-#| tbl-cap: Regression Results of Penguins
-cm <- c(
-  "speciesChinstrap" = "Chinstrap",
-  "speciesGentoo" = "Gentoo",
-  "sexmale" = "Male",
-  "year" = "Year"
-)
+Asale, R.-., & Rae. (s/f). cacaotal \| Diccionario de la lengua española. «Diccionario De La Lengua Española» - Edición Del Tricentenario. https://dle.rae.es/cacaotal
 
-gm <- tibble(
-  raw = c("nobs", "r2"),
-  clean = c("Observations", "$R^2$"),
-  fmt = c(0, 3)
-)
+Asale, R.-., & Rae. (s/f). semilla \| Diccionario de la lengua española. «Diccionario De La Lengua Española» - Edición Del Tricentenario. https://dle.rae.es/semilla
 
-list("(1)" = lm(bill_length_mm ~ species, data = penguins),
-     "(2)" = lm(bill_length_mm ~ species + sex, data = penguins),
-     "(3)" = lm(bill_length_mm ~ species + sex + year, data = penguins),
-     "(4)" = lm(body_mass_g ~ species, data = penguins),
-     "(5)" = lm(body_mass_g ~ species + sex, data = penguins),
-     "(6)" = lm(body_mass_g ~ species + sex + year, data = penguins)) |>
-  modelsummary(stars = c("+" = .1, "*" = .05, "**" = .01),
-               coef_map = cm,
-               gof_map = gm,
-               notes = "_Notes_: Data from Palmer penguins dataset.") |>
-  group_tt(j = list("Bill Length (mm)" = 2:4, "Body Mass (g)" = 5:7))
-```
+Asale, R.-., & Rae. (s/f). mucílago \| Diccionario de la lengua española. «Diccionario De La Lengua Española» - Edición Del Tricentenario. https://dle.rae.es/muc%C3%ADlago
 
-While `tinytable` generates compatible tables between LaTeX and Typst, it does not support LaTeX math expressions for Typst tables. I think the compatibility between LaTeX and Typst is crucial for academic writing because it guarantees that the document can be easily converted to LaTeX for submission to journals.
+Castillo, E., Alvarez, C., & Contreras, Y. (2018). Caracterización fisicoquímica de la cáscara del fruto de un clon de cacao (theobroma cacao l.) Cosechados en Caucagua estado Miranda.Venezuela. https://www.redalyc.org/journal/3761/376160247008/html/
 
-A workaround is to use [MiTeX](https://typst.app/universe/package/mitex/), a Typst package that allows you to use LaTeX math expressions in Typst. I write a custom theme for `tinytable` to convert LaTeX math expressions to MiTeX expressions. The following table includes LaTeX math expressions but will be converted to MiTeX expressions in the Typst output.
+Chimborazo-Sarabia, C. D. (2009). Caracterización in situ, de las variedades morfológicas presentes en el cultivo de Cacao existente en la Provincia de Pastaza. https://repositorio.uea.edu.ec/handle/123456789/44
 
-```{r}
-theme_mitex <- function(x, ...) {
-    fn <- function(table) {
-        if (isTRUE(table@output == "typst")) {
-          table@table_string <- gsub("\\$(.*?)\\$", "#mitex(`\\1`)", table@table_string)
-        }
-        return(table)
-    }
-    x <- style_tt(x, finalize = fn)
-    x <- theme_tt(x, theme = "default")
-    return(x)
-}
+De Agricultura Y Desarrollo Rural, S. (s/f). Sistemas Agroforestales, alternativa multifuncional de vida. gob.mx. https://www.gob.mx/agricultura/articulos/sistemas-agroforestales-alternativa-multifuncional-de-vida
 
-options(tinytable_html_mathjax = TRUE)
-options(tinytable_tt_theme = theme_mitex)
-```
+De Agricultura Y Desarrollo Rural, S. (s/f). ¿Qué es y para qué sirve el fertilizante? gob.mx. https://www.gob.mx/agricultura/articulos/que-es-y-para-que-sirve-el-fertilizante
 
-```{r}
-#| label: tbl-math
-#| tbl-cap: Math Symbols
-data.frame(Math = c("$\\alpha$", "$a_{it}$", "$e^{i\\pi} + 1 = 0$")) |>
-  tt()
-```
+Del Consumidor, P. F. (s/f). El chocolate. Alimento de los dioses. gob.mx. https://www.gob.mx/profeco/documentos/el-chocolate-alimento-de-los-dioses?state=published De Inspección Y Certificación De Semillas, S. N. (n.d.-b). Cacao (Theobroma cacao L.)\*. gob.mx.https://www.gob.mx/snics/acciones-y-programas/cacao-theobroma-cacao-l
 
-# Last words
+Hurst, W. J., Tarka, S. M., Powis, T. G., Valdez, F., & Hester, T. R. (2002). Cacao usage by the earliest Maya civilization. Nature, 418(6895), 289–290. https://doi.org/10.1038/418289a
 
-I made this template for my working papers, so it may not be suitable for other fields than economics. I am happy to receive feedback and suggestions for improvement.
+Herbario de la universidad publica de Navarra (s/f). Morfología de las plántulas. (s/f). https://www.unavarra.es/herbario/htm/plantula_BAMH_01.htm
 
-{{< appendix >}}
+International Cocoa organization (ICCO). (2004). World Cocoa Directory 2004-2005. Kogan Page Limited.
 
-# Supplemental Figures
+INTAGRI. 2020. Cultivo de Cacao en México. Serie Frutales, Núm. 69. Artículos Técnicos de INTAGRI. México. 3 p.
 
-The section numbering will be changed to "A.1.1" in the appendix. The second section in the appendix will be "B". On the other hand, the figure numbering will be reset to "A.1", "A.2" so that it is clear that these figures are part of the appendix. The "A" stands for the "Appendix", not the section numbering.
+JackzWeb. (2021, October 22). El Cacao Theobroma cacao. CAAFF. https://caaff.com.mx/noticias/el-cacao-theobroma-cacao
 
-![**The Great Wave off Kanagawa**. A woodblock print by @katsushika1831.](img/hokusai_kanagawa.jpg){#fig-img}
+Justino, L. V. L., & Rosario, M. R. F. (2023). Caracterización morfo-agronómica del cacao nativo tipo chuncho (Theobroma cacao L.) en Santa Ana - La Convención - Cusco. http://hdl.handle.net/20.500.12918/7711
 
-{{< pagebreak >}}
+Le Vice Chocolat. (n.d.). Tipos de Cacao: Criollo, trinitario y forastero, ¿qué son? https://levicechocolat.com/blogs/articulos/tipos-de-cacao-criollo-trinitario-y-forastero-conoces-la-diferencia?srsltid=AfmBOooJl7FrLuZAgT1Emtv-G_pY931NCnphgMLgFEj3MBlZWWMPwgU0
+
+Ramírez-Guillermo, M. Á., Lagunes-Espinoza, L. C., Ortíz-García, C. F., & Gutiérrez, O. A. (2018). VARIACIÓN MORFOLÓGICA DE FRUTOS Y SEMILLAS DE CACAO (Theobroma cacao L.) DE PLANTACIONES EN TABASCO, MÉXICO. Revista Fitotecnia Mexicana, 41(2), 117–125. https://doi.org/10.35196/rfm.2018.2.117-125
+
+Sacoto, Carlos & Alvarado, Arturo & Farah, Simón & Garcia, Juan. (2022). Caracterización morfológica del cacao nacional “Theobroma cacao L.” del cantón Naranjal, Ecuador. Revista Tecnológica - ESPOL. 34. 80-97. 10.37815/rte.v34n4.978. Serie técnica. Manual Técnico / CATIE ; no. 105Catálogo de clones de cacao seleccionados por el CATIE para siembras comerciales / Wilbert Phillips Mora… \[et al.\]. ¬– 1a ed. – Turrialba, CR: CATIE, 2012. 68 p. : il.
+
+Wiersum, K. F. (1998). Collaborative management in forestry: history and conceptualization. In Proc. of the seminars on co-management in the forest context, Wageningen, The Netherlands (1998)
+
+Wilbert, P. M., Adriana, A. L., Allan, M. Q., & C, M. a. J. (2013). Catálogo de clones de cacao seleccionados por el CATIE para siembras comerciales. https://repositorio.catie.ac.cr/handle/11554/7280
+
+Yáñez, O., Osorio, M. I., Areche, C., Vásquez‐Espinal, A., Bravo, J. L., Aldana, A. S., Pérez-Donoso, J. M., González‐Nilo, F., Matos, M. J., Osorio, E., García‐Beltrán, O., & Tiznado, W. (2021). Theobroma cacao L. compounds: Theoretical study and molecular modeling as inhibitors of main SARS-CoV-2 protease. Biomedicine & Pharmacotherapy, 140, 111764. https://doi.org/10.1016/j.biopha.2021.111764
