@@ -16,8 +16,7 @@ thanks: |
 
 keywords: [PRODUCTIVIDAD, MANEJO AGRONÓMICO, DIVERSIDAD GENÉTICA, ADAPTACIÓN CLIMÁTICA]
 custom-keywords:
-  - name: JEL Codes
-    values: [J16, J22, J31]    
+      
 date: today
 date-format: full
 bibliography: references.bib
