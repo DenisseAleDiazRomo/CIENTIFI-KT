@@ -1,5 +1,155 @@
 ---
-title: "PRESENTACIÓN CACAO"
-format: html
+title: "CARACTERIZACIÓN DE VARIEDADES DE CACAO CON FINES DE APROVECHAMIENTO EN EL RANCHO “LA VERONICA”, MPIO. DE ACAYUCAN, VERACRUZ."
+autor: "Denisse Alejandra Díaz Romo"
+format:
+  revealjs:
+    controls: true
+    navigation-mode: vertical
+    selfcontained: true
+    css: styles.css
+    footer: "[inicio](../../index.qmd)"
 ---
 
+# INTRODUCCIÒN
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.30.14%20p.m..png){fig-align="center"}
+
+# ANTECEDENTES
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.30.33%20p.m..png){fig-align="center"}
+
+# ANTECEDENTES
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.30.45%20p.m..png){fig-align="center"}
+
+# ANTECEDENTES
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.30.54%20p.m..png)
+
+# PLANTEAMIENTO DEL PROBLEMA
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.31.55%20p.m..png){fig-align="center"}
+
+# OBJETIVOS
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.33.14%20p.m..png){fig-align="center"}
+
+# HIPOTESIS
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.33.27%20p.m..png){fig-align="center"}
+
+# MARCO TEORICO
+
+![](images/Captura%20de%20pantalla%202025-06-15%20a%20la(s)%207.33.42%20p.m..png){fig-align="center"}
+
+# Los mayas
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.33.49 p.m..png){fig-align="center"}
+
+# Producción de cacao en México
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.33.57 p.m..png){fig-align="center"}
+
+# La importancia del cacao
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.34.04 p.m..png){fig-align="center"}
+
+# VARIEDADES DE CACAO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.34.11 p.m..png){fig-align="center"}
+
+# CACAO CRIOLLO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.34.18 p.m..png){fig-align="center"}
+
+# CACAO FORASTERO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.34.46 p.m..png){fig-align="center"}
+
+# CACAO TRINITARIO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.34.53 p.m..png){fig-align="center"}
+
+# ESPECIES AMENAZADAS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 7.35.08 p.m..png){fig-align="center"}
+
+# TIPO DE INVESTIGACIÓN 
+
+La presente Investigación es del tipo cualitativa descriptiva ya que se describe las caracteristicas morfologicas de las hojas, flores, frutos y semillas del cacao.
+
+# DESCRIPCIÓN DEL AREA DE ESTUDIO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.04.09 p.m..png){fig-align="center"}
+
+# MATERIALES Y MÉTODOS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.06.55 p.m..png){fig-align="right"}
+
+# Descriptores de hoja
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.05.41 p.m..png){fig-align="center"}
+
+# Descriptores de flor
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.06.03 p.m..png){fig-align="center"}
+
+# Descriptores de fruto
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.06.14 p.m..png){fig-align="center"}
+
+# Descriptores de Semilla
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.06.30 p.m..png)
+
+# Metodología
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.06.22 p.m..png)
+
+# RESULTADOS Y DISCUSIÓN
+
+![](images/Ilustración_sin_título.jpg){fig-align="center"}
+
+# RECOLECCIÓN DE MATERIAL BIOLÓGICO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.09.59 p.m..png){fig-align="center"}
+
+# CARACTERIZACIÓN MORFOLÓGICA
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.10.14 p.m..png){fig-align="center"}
+
+# DESCRIPCION DE LOS MATERIALES ENCONTRADOS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.10.19 p.m..png){fig-align="center"}
+
+# FLOR
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.10.27 p.m..png){fig-align="center"}
+
+# FRUTOS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.10.36 p.m..png){fig-align="center"}
+
+# SEMILLAS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.10.48 p.m..png)
+
+# TABLA DE RESULTADOS DE HOJAS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.17.19 p.m..png){fig-align="center"}
+
+# TABLA DE RESULTADOS DE FLOR
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.17.26 p.m..png){fig-align="center"}
+
+# TABLA DE RESULTADOS DE FRUTO
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.17.36 p.m..png){fig-align="center"}
+
+# TABLA DE RESULTADOS DE SEMILLAS
+
+![](images/Captura de pantalla 2025-06-15 a la(s) 8.19.40 p.m..png){fig-align="center"}
+
+# CONCLUSIONES
+
+La caracterización morfológica de las variedades de cacao en el rancho “La Verónica” ha revelado una notable diversidad, lo que subraya la riqueza genética de esta región. Por lo tanto, podemos concluir que la hipótesis fue correcta, ya que las diferencias observadas en los descriptores morfológicos, como el tamaño y forma de hojas, flores y frutos, indican un potencial significativo para la selección de variedades que se adapten mejor a las condiciones locales y que puedan maximizar la producción.

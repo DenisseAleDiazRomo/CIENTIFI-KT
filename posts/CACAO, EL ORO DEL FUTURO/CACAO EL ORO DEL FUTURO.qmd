@@ -1,4 +1,58 @@
 ---
 title: "CACAO: EL ORO DEL FUTURO"
+author: "Denisse Alejandra Diaz Romo"
+date: "2025-03-28"
+image: images/ChatGPT Image 15 jun 2025, 09_28_52 p.m..png
+
 format: html
+html: default
+docx: default
+categories: [POTENCIAL INDUSTRIAL, CACAO] 
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+
+comments: 
+  hypothesis: true 
+bibliography: references.bib
 ---
+
+# El auge del cacao en el mercado global
+
+El cacao se ha convertido en uno de los commodities agrícolas más valiosos y rentables a nivel mundial, llegando a superar incluso a metales como el cobre en cuanto a su cotización por tonelada . En 2024, el precio del cacao alcanzó máximos históricos, llegando a cotizarse cerca de los 13,000 dólares por tonelada, lo que representa un incremento del 135% en solo un año, impulsado por una combinación de factores climáticos, enfermedades y una demanda global sostenida [@sagarpa2017].
+
+
+![](images/Ilustración_sin_título%203.jpg){fig-align="center"}
+
+![]()
+
+# Factores que impulsan el valor del cacao
+
+**Escasez y volatilidad:** La producción mundial de cacao se ha visto afectada por sequías, enfermedades y el cambio climático, especialmente en África Occidental, donde se produce más del 60% del cacao global. Esto ha reducido la oferta y disparado los precios [@sagarpa2017a].
+
+**Demanda creciente:** El consumo de chocolate y productos derivados del cacao sigue en aumento a nivel global, lo que mantiene la presión sobre la oferta y eleva los precios [@orozco-aguilar2024].
+
+**Sustituto de cultivos ilícitos:** En países como Colombia, el cacao se ha posicionado como una alternativa rentable y legal para sustituir cultivos ilícitos, impulsando economías locales y promoviendo la paz social [@bustamante2022].
+
+**Importancia económica:** El cacao es la base de una industria multimillonaria que genera empleo para millones de personas en regiones tropicales y es fundamental para las economías de países productores [@secretariadeagriculturaydesarrollorural2021].
+
+![](images/Ilustración_sin_título.jpg)
+
+# El cacao: de moneda ancestral a “nuevo oro”
+
+Históricamente, el cacao fue considerado más valioso que el oro en culturas prehispánicas como la mexica, donde se utilizaba como moneda de cambio y era símbolo de estatus y poder . Hoy, su importancia económica, social y cultural sigue vigente, y su escasez lo está posicionando como el “nuevo oro” en los mercados internacionales.
+
+# Perspectivas a futuro
+
+**Rentabilidad superior:** El cacao ha superado la rentabilidad de otros commodities y de los principales índices bursátiles, consolidándose como una inversión atractiva en tiempos de volatilidad económica.
+
+**Sostenibilidad y resiliencia:** El cultivo de cacao promueve la sostenibilidad ambiental y social, especialmente cuando se produce bajo sistemas agroforestales, y es clave para la adaptación al cambio climático y la conservación de la biodiversidad
+
+**Desafíos:** A pesar de su auge, el sector enfrenta retos como la necesidad de mejores prácticas agrícolas, inversión en innovación y políticas que garanticen precios justos para los productores
+
+![](images/Ilustración_sin_título%202-01.jpg){fig-align="center"}
+
+# Conclusión
+
+El cacao es considerado el próximo oro del mundo por su creciente escasez, su valor económico en alza, su importancia social y ambiental, y su papel estratégico en la economía global y local. Su historia, su presente y sus perspectivas lo convierten en un recurso clave para el futuro de la agricultura y los mercados internacionales
